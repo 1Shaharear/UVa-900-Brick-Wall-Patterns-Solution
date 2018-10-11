@@ -1,0 +1,1 @@
+# UVa-900-Brick-Wall-Patterns-Solution
